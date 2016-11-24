@@ -1,2 +1,0 @@
-# ChildrenGrow
-FIrst Git Repository

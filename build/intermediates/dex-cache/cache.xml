@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a82958c8d7415c1f96a23e0d9ad554c02e0d0705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1b886622f10dd9d0df2d1d0dd18bf3c9285c4058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9ca28fac268c80c4b2c0dfa0d48606c40dfc6df2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_db5d0e07c3e1ebd4aa0fbb10d84c8e86cc49ef29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_60038c592f1502b011abb2253f56167beb381ac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_7857a6ff4bafa5a23862982e99e1590e0e7047bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92f2d760de86a138c20252c53a6e624bd491d0c7">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cb5fd9d98cf2fab3a3a783f2bcafe8b503f9c76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-studio\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_907baebcd9c1fdd1f52c9072eab493feb784d387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e3dce453b8377a0bd019369bb9455384c4b5cd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9e454f8a25452b0f46593f7f2a8e159ff9684b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_af5fdadd358d50cbb3c669302cf7d62b55136a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6589c517add0fd53a9fe3045616e7feb71bbf75d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6d8bf1d83cca9eb51aedfaf1c1aedd446fd03e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5e57ac1d3fc3e0341d512a8609d960a8cafe0ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f1cbec02862171c4c0f8b170a75ac1c0734839f">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_37ff6c4f65bd8b7228342a651c04b818d137dd05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_28b262c57cd7d09fe92b3474a49a3d194aa53f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\BabyGrowth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Android\BabyGrowth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_421a71f726f3351932a506e0814fc047bb87cb07\classes.dex" />
+    </item>
+
+</items>
